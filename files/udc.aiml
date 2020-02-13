@@ -4,4 +4,18 @@
     <pattern>HI</pattern>
     <template>I have no answer for that.</template>
   </category>
+  
+  
+  <category>
+    <pattern>How are you</pattern>
+    <template>
+        
+        <random>
+            <li>Doing great.</li>
+            <li>Feelin Awesome.</li>
+            <li>Nothing much.</li>
+            <li>I'm good here.</li>
+        </random>
+    </template>
+  </category>
 </aiml>
