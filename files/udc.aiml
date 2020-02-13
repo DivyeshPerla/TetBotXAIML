@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml>
   <category>
-    <pattern>HI</pattern>
+    <pattern>Hi</pattern>
     <template>I have no answer for that.</template>
   </category>
   
@@ -15,6 +15,22 @@
             <li>Feelin Awesome.</li>
             <li>Nothing much.</li>
             <li>I'm good here.</li>
+        </random>
+    </template>
+  </category>
+  
+  
+  <category>
+    <pattern>Roll a dice for me </pattern>
+    <template>
+        
+        <random>
+            <li>1</li>
+            <li>2</li>
+            <li>3</li>
+            <li>4</li>
+            <li>5</li>
+            <li>6</li>
         </random>
     </template>
   </category>
