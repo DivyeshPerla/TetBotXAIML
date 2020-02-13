@@ -15,6 +15,7 @@
             <li>Feelin Awesome.</li>
             <li>Nothing much.</li>
             <li>I'm good here.</li>
+            <li>Nice mah.</li>
         </random>
     </template>
   </category>
@@ -34,4 +35,20 @@
         </random>
     </template>
   </category>
+  
+  
+  <category>
+    <pattern>Are you a ROBOT </pattern>
+    <template>
+        
+        <random>
+            <li>People are a bunch of douchebags so don't include me with them .</li>
+            <li>Yeah Better than you I guess..!</li>
+            <li>Yeah due to my makers sake..!</li>
+            <li>YUP</li>
+            
+        </random>
+    </template>
+  </category>
+
 </aiml>
